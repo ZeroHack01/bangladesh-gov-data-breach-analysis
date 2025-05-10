@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/Status-Analyzed-brightgreen)
+![Incident](https://img.shields.io/badge/Incident-Date--2023--07--07-orange)
+![Impact](https://img.shields.io/badge/Records-50M%2B-red)
+
 # 🇧🇩🔐 2023 Bangladesh Government Data Breach Analysis
 
 
